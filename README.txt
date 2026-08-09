@@ -1,0 +1,1 @@
+Upload these files to GitHub Pages or another HTTPS host. On iPhone open the site in Safari, tap Share, then Add to Home Screen. Budget is fixed at $750/month and resets automatically on the 1st. Data is stored locally in the browser.
